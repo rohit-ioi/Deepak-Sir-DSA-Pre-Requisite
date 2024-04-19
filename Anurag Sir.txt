@@ -1,0 +1,44 @@
+Full Stack 
+ML
+DevOps(Cloud)
+Testing
+DSA(Python, Java, JavaScript[Typescript],)
+GOLANG*, RUST*, RUBY ON RAILS
+
+MObile Development(
+ios - swift
+android- kotlin/ java)
+
+NAtive - app is running on the specific hardware - ReactNative(JS) & Flutter(DART)
+Hybrid - 
+
+
+
+frontend -- HTML, CSS,  javascript
+css-- talwind, bootstraped
+
+framework----inhouse built, it is end to end cooked
+library----a part is end to end coooked,it is not completely end to end cooked
+
+frontend framework --  reactjs*___nextjs(built by facebook), angular*(google), vuejs, servelt
+TOR-- The Onion Routing
+
+
+
+                                          Javascript
+Reactjs -- nextjs
+Angularjs
+
+                                           Backend
+Logic(Business Logic) -- 
+Database(SQL--proper sequence[mysql], noSQL-unstructured[mongodb])
+Backend technologies -- nodejs(expressjs)(javascript)(written in typescript which have data type), springboot(java)***
+
+UI/UX --- Figma tool
+
+Test cases - things which my application can do & the things when it can give error
+Machine Learning - It has no frontend, no backend
+Prompt Eng. -- 
+
+
+
